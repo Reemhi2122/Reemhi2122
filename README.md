@@ -5,14 +5,14 @@
 - 📫 How to reach me: stanvogels@live.nl
 - 🌐 Website: www.stanvogels.nl
 - 🖥️ Languages:
-      - C++
-      - C#
-      - Javascript
-      - HTML
-      - CSS
--💿 Software I used:
-      - Git
-      - CMake
+   - C++
+   - C#
+   - Javascript
+   - HTML
+   - CSS
+- 💿 Software I used:
+   - Git
+   - CMake
    
 
 <!--
