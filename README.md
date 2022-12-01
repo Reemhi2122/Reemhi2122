@@ -3,13 +3,17 @@
 - 🔭 I’m currently working on a raytraced version of Descent
 - 🌱 I’m currently learning Game Programming on Breda University of Applied Sciences
 - 📫 How to reach me: stanvogels@live.nl
-- 🌐 Website: www.stanvogels.nl
+- 🌐 Website: www.stanvogels.nl 
+<br/>
+
 - 🖥️ Languages:
    - C++
    - C#
    - Javascript
    - HTML
    - CSS
+<br/>
+
 - 💿 Software I used:
    - Git
    - CMake
