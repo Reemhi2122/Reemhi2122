@@ -10,8 +10,7 @@
    - C++
    - C#
    - C
-   - HTML
-   - CSS
+
 <br/>
 
 - 💿 Software I used:
