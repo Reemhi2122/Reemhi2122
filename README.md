@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a raytraced version of Descent
 - 🏫 I’m currently studying Game Programming on Breda University of Applied Sciences
+- 🔍 I'm looking for a C++ gameplay programmer internship
 - 📫 How to reach me: stanvogels@live.nl
 - 🌐 Website: www.stanvogels.com
 <br/>
@@ -15,6 +16,11 @@
 
 - 💿 Software I used:
    - Git
+   - Perforce
+   - Unreal Engine
+   - Unity
+   - Visual studio
+   - Visual studio code
    - CMake
    
 
