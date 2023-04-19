@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a raytraced version of Descent
-- 🏫 I’m currently studying Game Programming on Breda University of Applied Sciences
+- 🏫 I’m currently studying Game Programming at Breda University of Applied Sciences
 - 🔍 I'm looking for a C++ gameplay programmer internship
 - 📫 How to reach me: stanvogels@live.nl
 - 🌐 Website: www.stanvogels.com
@@ -19,10 +19,15 @@
    - Perforce
    - Unreal Engine
    - Unity
-   - Visual studio
-   - Visual studio code
+   - Visual Studio
+   - Visual Studio Code
    - CMake
-   
+ 
+# Note
+Not all of my projects are publically available on GitHub due to:
+- It being restricted due to NDA with PlayStation.
+- It being a project made in Unreal Engine mostly using BluePrints.
+- It not being released to the public yet.
 
 <!--
 **Reemhi2122/Reemhi2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
