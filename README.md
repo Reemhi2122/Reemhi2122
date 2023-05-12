@@ -26,7 +26,7 @@
 # Note
 Not all of my projects are publically available on GitHub due to:
 - It being restricted due to NDA with PlayStation.
-- It being a project made in Unreal Engine mostly using BluePrints.
+- It being a project made in Unreal Engine mostly using Blueprints.
 - It not being released to the public yet.
 
 <!--
