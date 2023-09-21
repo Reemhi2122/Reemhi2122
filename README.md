@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a raytraced version of Descent
 - 🏫 I’m currently studying Game Programming at Breda University of Applied Sciences
-- 🔍 I'm looking for a C++ gameplay programmer internship
+- 🏢 I'm currently doing my internship at Climax Studios as Associate Programmer
 - 📫 How to reach me: stanvogels@live.nl
 - 🌐 Website: www.stanvogels.com
 <br/>
