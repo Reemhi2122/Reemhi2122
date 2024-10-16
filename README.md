@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🏢 I'm currently doing my internship at Climax Studios as Associate Programmer
-- 🏫 I’m currently studying Game Programming at Breda University of Applied Sciences
+- 🏢 I'm currently working at Climax Studios as Programmer
+- 🏫 I’m finished my study Game Programming (BSc) at Breda University of Applied Sciences
 - 📫 How to reach me: stanvogels@live.nl
 - 🌐 Website: www.stanvogels.com
 <br/>
